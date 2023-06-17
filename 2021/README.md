@@ -19,5 +19,4 @@ Technical workshop on changes in ELMO and EMREG, January 2021
 On January 29 over 30 attendants from 15 countries gathered online to discuss needed changes in the ELMO-format, further cooperations with other organisations and needs for converters between different formats.Furthermore a suggestions to make the EMREX registry more robust and easy to maintain was presented.
 
 - [Changes in ELMO](EMREX-ELMO-tech-meeting.pdf)
-
 - [Improve EMREG](EMREG_in_-EWP_Network.pdf)
